@@ -2,10 +2,10 @@ const fs = require("fs");
 
 global.creator = "RyuZetsu"; // yourname
 global.MONGO_DB_URI =
-  "mongodb+srv://mrivaldianor:Aldi_saja@cluster0.z762z.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"; //database mongodb
+  ""; //database mongodb
 global.ACTIVATION_TOKEN_SECRET = "-@Pqnap+@(/1jAPPnew/@10"; //isi apa aja bebas
-global.your_email = "ryuzetsu342@gmail.com"; //email
-global.email_password = "wtyu rymb jgno swmb"; //application password email
+global.your_email = ""; //email
+global.email_password = ""; //application password email
 global.limitCount = 10000;
 global.YUOR_PORT = 8000;
 global.loghandler = {
